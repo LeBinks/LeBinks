@@ -5,4 +5,4 @@
 - 📫 How to reach me: lebinks@criminal.li
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeBinks&&show_icons=true&title_color=ffffff&icon_color=0A8AEF&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=LeBinks&&show_icons=true&title_color=ffffff&icon_color=0A8AEF&text_color=C8FEF1&bg_color=151515">
